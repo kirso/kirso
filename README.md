@@ -1,7 +1,7 @@
 ## Hey, I'm Kirill 👋
 
 ### Now:
-💱  Working in Fintech.
+💱  Working in Fintech.   
 🔭  Finishing my personal weebsite. 
 🌱  Learning JavaScript, React and Next.js.  
 👯  Collaborating on side projects.  
