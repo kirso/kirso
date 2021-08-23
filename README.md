@@ -1,8 +1,8 @@
 ## Hey, I'm Kirill 👋
 
 ### Now:
-💱  Working in Fintech.   
-🔭  Finishing my personal weebsite.    
+🚀  Operating on the intersection of product & growth.
+🔭  Finishing my personal website.    
 🌱  Learning JavaScript, React and Next.js.  
 👯  Collaborating on side projects.  
 💬  Ask me about product management, indie hacking and go-to-market.  
