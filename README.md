@@ -1,7 +1,7 @@
 ## Hey, I'm Kirill 👋
 
 ### Now:
-🚀  Operating on the intersection of product & growth.
+🚀  Operating on the intersection of product & growth. 
 🔭  Finishing my personal website.    
 🌱  Learning JavaScript, React and Next.js.  
 👯  Collaborating on side projects.  
