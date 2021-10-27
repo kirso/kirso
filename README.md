@@ -12,7 +12,14 @@ You can find me on: [Twitter](https://twitter.com/sokirill) • [LinkedIn](https
 👯 Collaborating on side projects.  
 💬 Ask me about product management, indie hacking and go-to-market.  
 
-## Projects 
+## Projects
+
+ <a href="https://github.com/sokirill/google">
+  <img width="300" src="https://www.kirillso.com/static/img/projects/google-project-thumbnail.png" /></a>
+<a href="https://github.com/sokirill/google">
+  <img align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=sokirill&repo=google&theme=radical" />
+</a>
+
 
 
 <p align="center">
