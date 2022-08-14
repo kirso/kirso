@@ -1,7 +1,7 @@
 
 # Hey there, I'm Kirill 👋
 
-I work as a product manager during the day and tinker with MVPs and rapid projects at night. I am experimenting with `HTML`, `CSS`, `JavaScript`, `TypeScript`, `Tailwind`, `React`, `Next.js`, `Prisma`, `PlanetScale`, `MySQL` as my stack. 
+I work as a product manager during the day and tinker with MVPs and rapid projects at night. I am experimenting with `HTML`, `CSS`, `JavaScript`, `TypeScript`, `Tailwind`, `React`, `Next.js`, `Prisma`, `Supabase`, `PostgreSQL`, `tRPC` as my stack. 
 
 You can find me on: [Twitter](https://twitter.com/sokirill) • [LinkedIn](https://www.linkedin.com/in/sokirill/) • [Website](https://www.kirillso.com)
 
