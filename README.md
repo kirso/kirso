@@ -7,7 +7,7 @@
 ### What I'm working on 👨‍💻
 
 🔖 Self-teaching software engineering & design  - [Projects](https://kirillso.com/projects) <br>
-📝 Writing about various disciplines - [The Polymath](https://kirill.substack.com) <br>
+📝 Writing about various disciplines - [The Explorer](https://kirill.substack.com) <br>
 📂 A theme for a PKM tool - [Logseq panic theme](https://github.com/kirso/logseq-panic-theme)
 
 ### Around the web 🌎
