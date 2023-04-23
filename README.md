@@ -7,8 +7,8 @@
 ### What I'm working on 👨‍💻
 
 🔖 Self-teaching software engineering & design  - [Projects](https://kirillso.com/projects) <br>
-📝 Writing about various disciplines - [The Explorer](https://kirill.substack.com) <br>
-📂 A theme for a PKM tool - [Logseq panic theme](https://github.com/kirso/logseq-panic-theme)
+📝 Writing about making sense of the world - [The Explorer](https://kirill.substack.com) <br>
+📂 A logseq (PKM tool) theme - [Logseq panic theme](https://github.com/kirso/logseq-panic-theme)
 
 ### Around the web 🌎
 
