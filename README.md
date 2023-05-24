@@ -1,6 +1,7 @@
 ### Hey, I'm Kirill! 👋
 
 🤓 Principal product manager at [Delivery Hero](https://www.deliveryhero.com) <br>
+🚀 Formerly growth & go-to-market <br>
 🇨🇿 From Prague, Czech Republic <br>
 🇸🇬 Based in Singapore
 
