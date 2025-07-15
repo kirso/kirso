@@ -1,15 +1,15 @@
 ### Hey, I'm Kirill! 👋
-
-🤓 Principal product manager at [Delivery Hero](https://www.deliveryhero.com) <br>
-🚀 Formerly growth & go-to-market <br>
+🛠️ Currently on sabbatical, in exploration and building mode
+⭐ Ex Growth PM [Delivery Hero](https://www.deliveryhero.com) <br>
 🇨🇿 From Prague, Czech Republic <br>
-🇸🇬 Based in Singapore
+🌏 Remote
 
 ### What I'm working on 👨‍💻
 
-🔖 Self-teaching software engineering & design  - [Projects](https://kirillso.com/projects) <br>
-📝 Writing about making sense of the world - [The Explorer](https://kirill.substack.com) <br>
+💭 Helping families preserve their cherished memories - [Keepsake](https://www.makekeepsake.com) <br>
+✍🏻 Writing and thinking - [Personal website](https://kirillso.com/) <br>
 📂 A logseq (PKM tool) theme - [Logseq panic theme](https://github.com/kirso/logseq-panic-theme)
+
 
 ### Around the web 🌎
 
