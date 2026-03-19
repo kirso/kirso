@@ -7,6 +7,7 @@
 ### What I'm working on 👨‍💻
 
 💭 Helping families preserve their cherished memories - [Keepsake](https://www.makekeepsake.com) <br>
+📈 Measuring impact of AI on jobs in Singapore - [AI Work Index](https://aiworkindex.pages.dev) <br>
 ✍🏻 Writing and thinking - [Personal website](https://kirillso.com/) <br>
 📂 A logseq (PKM tool) theme - [Logseq panic theme](https://github.com/kirso/logseq-panic-theme)
 
