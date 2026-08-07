@@ -1,6 +1,6 @@
 ### Hey, I'm Kirill! 👋
 🛠️ Currently on sabbatical, in exploration and building mode <br>
-⭐ Ex Growth PM [Delivery Hero](https://www.deliveryhero.com) <br>
+🤖 AI Product Manager [Delivery Hero](https://www.deliveryhero.com) <br>
 🇨🇿 From Prague, Czech Republic <br>
 🌏 Remote
 
